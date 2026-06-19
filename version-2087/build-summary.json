@@ -1,0 +1,17 @@
+{
+  "movies": 2000,
+  "video_urls_extracted": 150,
+  "html_pages": 2013,
+  "categories": {
+    "europe-us-selection": 200,
+    "action-adventure": 200,
+    "suspense-crime": 200,
+    "romance-comedy": 200,
+    "sci-fi-fantasy": 200,
+    "drama-family": 200,
+    "animation-youth": 200,
+    "history-war": 200,
+    "documentary-life": 200,
+    "global-series": 200
+  }
+}
